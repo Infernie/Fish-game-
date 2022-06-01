@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 492}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 492}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 1
-  controlID: 108
+  controlID: 84
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 109
+  controlID: 85
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 117
+  controlID: 91
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -432,7 +432,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -11.51128, y: -0.17508256, z: 1.3745368}
     speed: 2
-    m_Value: {x: -2.2842789, y: -1.3264776, z: 9.35513}
+    m_Value: {x: -11.51128, y: -0.17508256, z: 1.3745368}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -481,11 +481,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.07045118, y: -0.09204195, z: 0.0065230154, w: -0.9932553}
     speed: 2
-    m_Value: {x: -0.06176631, y: -0.01287856, z: 0.0007973, w: -0.9980179}
+    m_Value: {x: -0.070451185, y: -0.09204195, z: 0.006523016, w: -0.9932553}
   m_Size:
-    m_Target: 9.333124
+    m_Target: 17.249432
     speed: 2
-    m_Value: 9.816306
+    m_Value: 17.249432
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -591,9 +591,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ccf8ffff
+      m_SelectedIDs: 84f1ffff
       m_LastClickedID: 0
-      m_ExpandedIDs: 54fbffff
+      m_ExpandedIDs: e2f3ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -664,14 +664,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 69
-  m_LastProjectPath: C:\Users\Katarina\Downloads\FishingFish
+  m_LastProjectPath: C:\Users\Katarina\Documents\GitHub\Fish-game-\FishingFish
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7a490000
-    m_LastClickedID: 18810
-    m_ExpandedIDs: 00000000784900007a49000000ca9a3b
+    m_SelectedIDs: 48500000
+    m_LastClickedID: 20552
+    m_ExpandedIDs: 00000000465000004850000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -699,7 +699,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000784900007a490000
+    m_ExpandedIDs: 000000004650000048500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
